@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConversion</string>
+    <string name="edit_message">Enter data</string>
+    <string name="fahrenheit_send">Send</string>
+    <string name="celsius_send">Send2</string>
+    <string name="kelvin_send">Send3</string>
+</resources>
